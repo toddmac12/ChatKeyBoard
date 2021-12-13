@@ -1,0 +1,8 @@
+/* Importing the Bootstrap CSS */
+@import url('node_modules\bootstrap/dist/css/bootstrap.min.css');
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+}
+
