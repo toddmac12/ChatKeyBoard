@@ -6,10 +6,10 @@ To run your project, navigate to the directory and run one of the following npm 
 - npm run web
 
 💡 You can also open up the projects in the ios and android directories with their respective IDEs.
-🚀 expo-updates (​https://github.com/expo/expo/blob/master/packages/expo-updates/README.md​) has been installed in your project. Before you do a release build, you'll need to configure a few values in Expo.plist and AndroidManifest.xml in order for updates to work.
-
+🚀 expo-updates (​<https://github.com/expo/expo/blob/master/packages/expo-updates/README.md>​) has been installed in your project. Before you do a release build, you'll need to configure a few values in Expo.plist and AndroidManifest.xml in order for updates to work.
 
 ## Android (to run on emulator)
+
 Go to your react-native Project then go to android directory Create a file with following name:
 local.properties
 
